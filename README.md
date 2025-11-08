@@ -1,4 +1,4 @@
-\# Grid_line_All_24x24_Map (SpringRTS / BAR Widget)
+\# Grid\_line\_All\_24x24\_Map (SpringRTS / BAR Widget)
 
 
 
@@ -8,7 +8,7 @@
 
 \*\*Game:\*\* Beyond All Reason / SpringRTS  
 
-\*\*File:\*\* `Grid_line_All_24x24_Map.lua`
+\*\*File:\*\* `Grid\_line\_All\_24x24\_Map.lua`
 
 
 
